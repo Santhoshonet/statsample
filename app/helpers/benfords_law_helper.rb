@@ -1,0 +1,2 @@
+module BenfordsLawHelper
+end
